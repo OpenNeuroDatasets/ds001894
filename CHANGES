@@ -1,3 +1,5 @@
+1.4.2 2022-04-04
+  - removed empty column in ses-1/ctopp.tsv causing BIDS error
 1.4.1 2021-03-23
   - Update to How to Acknowledge section
 1.4.0 2020-05-21
