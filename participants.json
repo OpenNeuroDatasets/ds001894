@@ -38,7 +38,7 @@
 	"age_ses-T1_AVWord_run-02": {
     "LongName": "Age at session T1 task AVWord run 02",
 	"Description": "Age at collection of ses-T1_task-AVWord_run-02 in sub-*/ses-T1/func"
-  },	
+  },
     "age_ses-T1_VVNonWord_run-01": {
     "LongName": "Age at session T1 task VVNonWord run 01",
 	"Description": "Age at collection of ses-T1_task-VVNonWord_run-01 in sub-*/ses-T1/func"
@@ -97,6 +97,26 @@
     "Level": {
       "1": "Left",
       "2": "Right"
+    }
+  },
+  "race": {
+    "Description": "How would you describe yourself?",
+    "Levels": {
+      "1": "American Indian or Alaskan Native",
+      "2": "Asian",
+      "3": "Black or African American",
+      "4": "Native Hawaiian or Other Pacific Islander",
+      "5": "White",
+      "6": "Two or more races",
+      "7": "Other"
+    }
+  },
+  "ethnicity": {
+    "LongName": "Ethnicity",
+    "Description": "Ethnicity of participants",
+    "Levels": {
+      "1": "Hispanic or Latino",
+      "2": "Not Hispanic or Latino"
     }
   }
 }
